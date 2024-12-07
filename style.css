@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:lightgreen ;
+    border-radius: 7px;
+    border: 3px solid green;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    color: Green;
+    border: 2px solid green;
+    border-radius: 7px;
+}
+footer {
+    background-color: white;
+    border: 3px solid greeen;
+}
+footer p {
+    background-color: lightgreen;
+    border: 3px solid green;
+    border-radius: 7px;
+}
+nav {
+    text-align: center;
+   margin: 9px;
+}
+nav a {
+    border: 3px solid green;
+    border-radius: 7px;
+    font-size: 20px;
+    margin: 30px;
+    color: black;
+    background-color: lightgreen;
+    padding: 3px;
+}
+select {
+    border: 2px solid green;
+    border-radius: 7px;
+    background-color: lightgreen;
+}
+option {
+    background-color: lightgreen;
+    border: 2px solid green;
+    border-radius: 7px;
+}
+.tovari {
+    background-color: lightgreen;
+    border: 3px solid green;
+    border-radius: 7px;
+    padding: 10px;
+}
+h2 {
+    color: green;
+    font-size: 40px;
+
+}
+.knopka {
+    font-size: 30px;
+    background-color: lightgreen;
+    border: 3px solid green;
+    border-radius: 7px;
+    color: black;
+    padding: 5px;
+}
